@@ -106,7 +106,7 @@ We welcome collaboration from:
 
 ## 📞 Contact
 
-📧 [your-nilamagriai@gmail.com](mailto:your-nilamagriai@gmail.com)
+📧 [your-nilamagriai@gmail.com](mailto:nilamagriai@gmail.com)
 
 ---
 

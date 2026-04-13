@@ -2,7 +2,13 @@
 
 **Snap. Scan. Grow.**
 
-Nilam AI is an AI-powered smart farming platform designed to help farmers make better decisions using real-time insights. It combines a mobile application with a low-cost soil testing device to improve crop yield, reduce input costs, and increase farmer income.
+Nilam AI is an AI-powered smart farming platform that helps farmers make better decisions using real-time insights. It combines a mobile application with a low-cost soil testing device to improve crop yield, reduce input costs, and increase farmer income.
+
+---
+
+## 📸 Project Preview
+
+![Nilam AI](./image1.png)
 
 ---
 
@@ -19,20 +25,20 @@ Nilam AI is an AI-powered smart farming platform designed to help farmers make b
 
 ## 💡 Innovation
 
-* AI-based soil and crop analysis
-* Portable low-cost soil testing device
-* All-in-one integrated farming platform
+* AI-powered soil detection using image processing
+* Portable low-cost soil testing device (hardware integration)
+* All-in-one farming platform (soil → crop → pest → market)
 * Tamil-first interface for rural accessibility
-* Offline support for low connectivity areas
+* Offline support for low-connectivity regions
 * Scalable to IoT-based smart agriculture
 
 ---
 
 ## 🌍 Impact
 
-* Improve farmer productivity
+* Increase farmer productivity and income
 * Reduce unnecessary fertilizer usage
-* Increase farmer income
+* Enable data-driven farming decisions
 * Promote sustainable agriculture
 
 ---
@@ -42,14 +48,15 @@ Nilam AI is an AI-powered smart farming platform designed to help farmers make b
 * 🇮🇳 140+ Million farmers in India
 * 🌾 ~8 Million farmers in Tamil Nadu
 * 📈 Rapidly growing AgriTech market
+* 📱 Increasing smartphone penetration in rural areas
 
 ---
 
 ## 🎯 Target Users
 
 * Small & marginal farmers
-* Smartphone-enabled farmers
-* Agri retailers
+* Progressive smartphone farmers
+* Agri retailers (seeds, fertilizers)
 * Government & agri organizations
 
 ---
@@ -76,12 +83,18 @@ Nilam AI is an AI-powered smart farming platform designed to help farmers make b
 
 ## 📌 Project Status
 
-🚧 Currently in **Pre-Seed / Ideation Stage**
+🚧 Currently in **Pre-Seed Stage**
 Prototype development in progress
 
 ---
 
-## 🤝 Contribution
+## 🌐 Live Website
+
+👉 https://yourusername.github.io/nilam-ai
+
+---
+
+## 🤝 Collaboration
 
 We welcome collaboration from:
 
@@ -93,8 +106,7 @@ We welcome collaboration from:
 
 ## 📞 Contact
 
-📧 Email: [your-email@example.com](mailto:your-email@example.com)
-🌐 Website: (Add your GitHub Pages link here)
+📧 [your-nilamagriai@gmail.com](mailto:your-nilamagriai@gmail.com)
 
 ---
 
